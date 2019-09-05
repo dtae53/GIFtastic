@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/background.jpg");
+    font-family:'Righteous', cursive;
+    color: white;
+}
+
+.topic {
+    margin: 10px;
+   }
+
+.buttons-view {
+    border-radius: 25px;
+    border: 2px solid white;
+    padding: 10px; 
+}
+
+h2 {
+    letter-spacing: 5px;
+    text-align: center;
+    color:white;
+}
+
+h6 {
+    font-style: italic;
+    color: white;
+}
+
+.topic {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.rap-name{
+    margin: 20px;
+    float: left;
+}
+
+p {
+    color: beige; 
+    font-weight: bold;
+    margin-top: 20px;
+    line-height: 16px;
+}
+
+img {
+    border-radius: 20px;
+    margin-top: 2px;
+}
